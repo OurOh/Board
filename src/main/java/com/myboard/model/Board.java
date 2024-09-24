@@ -6,4 +6,10 @@ public class Board {
 	private String content;
 	private String writer;
 	private String createDate;
+	
+	
+
+	public int getId() {
+		return id;
+	}
 }
